@@ -380,7 +380,6 @@ header {
   font-weight: 600;
 }
 .description-container .followed-by {
-  color: rgba(var(--f52, 142, 142, 142), 1);
   display: block;
   color: black;
   line-height: 14px;
